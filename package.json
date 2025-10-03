@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "primeflex": "^4.0.0",
+    "primeicons": "^7.0.0",
+    "primereact": "^10.9.7"
+  },
+  "devDependencies": {
+    "sass": "^1.93.2"
+  }
+}
